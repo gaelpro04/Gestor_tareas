@@ -1,4 +1,4 @@
 Vacaction's project:
-Program where someone can make reminders. Similar to Reminders from Iphone.
-This program has features as date of finish, priority, even is it done a reminder.
-In every reminder that someone made, can put its title and its description.
+A Program where users can create reminders. Similar to Reminders to the Iphone Reminders app.
+This program has features such as due date, priority and completion status.
+Each reminder that someone made, can put its title and its description.
