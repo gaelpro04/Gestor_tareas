@@ -17,6 +17,7 @@ public class TaskManager {
 
             while (!option.equals("b")) {
                 System.out.println("a) Select a task");
+                System.out.println("b) New Task");
                 System.out.println("b) Exit");
                 option = sc.next();
 
